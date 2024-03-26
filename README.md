@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 💻 **Junior Full Stack Software Developer | Javascript | React | HTML | CSS**
+* 💫 Currently learning C# and Blazor
+* ✨ Contributing to personal projects
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bill-keays/) or keays.b@yahoo.com
 <!--
 **keaysb/keaysb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
