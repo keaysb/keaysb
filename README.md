@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 💻 **Junior Full Stack Software Developer | Javascript | React | HTML | CSS | Node.js | Express.js**
+* 💻 **Junior Full Stack Software Developer | Javascript | React | HTML | CSS | Node.js | Express.js | PostgreSQL**
 * 💫 Currently learning C# and Blazor
 * 🔭 Contributing to personal projects
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bill-keays/) or keays.b@yahoo.com
